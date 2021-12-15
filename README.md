@@ -5,8 +5,8 @@ FOSDEM offers open source and free software developers a place to meet, share id
 
 ### Important dates
 
-- Submission deadline: Tuesday 29 Dec 2021 (23:59 UTC)
-- Schedule/selected talks announcement: Friday 6 Jan 2022
+- Submission deadline: Wednesday 29 Dec 2021 (23:59 UTC)
+- Schedule/selected talks announcement: Friday 7 Jan 2022
 - Recorded talks upload deadline: Sunday 16 Jan 2022
 - FOSDEM dates: 5-6 Feb 2022
 - Web3 Infrastructure devroom talks date: Sunday 6 Feb 2022
