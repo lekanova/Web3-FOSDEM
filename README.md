@@ -32,7 +32,6 @@ The main topic of the room will be the p2p, distributed web, and the open call f
 ### Talk details
 The default durations for talk recordings are 10/20/30 minutes
 Please select the most suitable duration for your talk, excluding Q&A
-Sessions will be 45 minutes with Q/A on average
 If you have a brief talk, we can fit it into a lightning talk session!
 
 
