@@ -1,4 +1,4 @@
-# Web3 Infrastructure track - Call for Proposals - FOSDEM 20222
+# Web3 Infrastructure track - Call for Proposals - FOSDEM 2022
 
 FOSDEM offers open source and free software developers a place to meet, share ideas and collaborate. Renowned for being highly developer-oriented, the event brings together some 8000+ geeks from all over the world.
 [Call for participation](https://fosdem.org/2022/news/2021-12-12-call-for-participation/) for 2022. There is no registration, but attendees must follow FOSDEM code of conduct, the event will be online 
